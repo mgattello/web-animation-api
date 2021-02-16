@@ -2,11 +2,11 @@
 
 ## Why use it?
 
-The API is design to let the browser make internal omptimizations without hacks, coercion or Window.requestAnimationFrame().
+The API is design to let the browser make internal optimizations without hacks, coercion or Window.requestAnimationFrame().
 
-Allows you to move intetractive animations from stylesheets to Javascript, separating presentation form behaviour. 
-
-No need to rely on DOM-heavy techniques and set dynamic values from properties to dutations.
+- It allows you to move interactive animations from stylesheets to Javascript, separating presentation form behaviour.
+- No need to rely on DOM-heavy techniques
+- set dynamic values from properties to dutations.
 
 ## Browser Support
 

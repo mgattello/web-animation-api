@@ -5,7 +5,7 @@
 The API is design to let the browser make internal optimizations without hacks, coercion or Window.requestAnimationFrame().
 
 - It allows you to move interactive animations from stylesheets to Javascript, separating presentation form behaviour.
-- No need to rely on DOM-heavy techniques
+- no need to rely on DOM-heavy techniques
 - set dynamic values from properties to dutations.
 
 ## Browser Support
@@ -18,5 +18,6 @@ The API is design to let the browser make internal optimizations without hacks, 
 
 ## More info
 
+- [Web Animation API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
 - [AnimationEffectTimingProperties](https://developer.mozilla.org/en-US/docs/Web/API/EffectTiming)
 - [Keyframe Object](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Keyframe_Formats)

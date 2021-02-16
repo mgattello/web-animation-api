@@ -18,5 +18,5 @@ No need to rely on DOM-heavy techniques and set dynamic values from properties t
 
 ## More info
 
-- AnimationEffectTimingProperties : [link]('ttps://developer.mozilla.org/en-US/docs/Web/API/EffectTiming'
-- Keyframe Object: [link]('https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Keyframe_Formats')
+- [AnimationEffectTimingProperties](ttps://developer.mozilla.org/en-US/docs/Web/API/EffectTiming)
+- [Keyframe Object](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Keyframe_Formats)
